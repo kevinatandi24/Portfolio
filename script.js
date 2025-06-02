@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'E-commerce Store',
             description: 'A full-stack e-commerce application with user authentication and payment gateway integration.',
             image: 'https://via.placeholder.com/300x200?text=E-commerce',
-            link: '#', // Replace with actual project link
+            link: '#', // To Replace with actual project link
             category: 'web'
         },
         {
@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'Mobile Recipe App',
             description: 'A native mobile application for discovering and managing recipes, built with React Native.',
             image: 'https://via.placeholder.com/300x200?text=Recipe+App',
-            link: '#',
+            link: '#',// To Replace with actual project link
             category: 'mobile'
         },
         {
@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'Portfolio Website V1',
             description: 'The first iteration of my personal portfolio, showcasing my early web development skills.',
             image: 'https://via.placeholder.com/300x200?text=Portfolio+V1',
-            link: '#',
+            link: '#',// To Replace with actual project link
             category: 'web'
         },
         {
